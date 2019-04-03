@@ -11,6 +11,7 @@ MaxSpAddr:00E4CB00
 StatusAddr:00E48B1C
 Opt2Addr:00E48B18
 Opt3Addr:00E48B20
+StatusSearch:00E4CF68
 
 // Misc
 CursorPosX:00BDB5A4
