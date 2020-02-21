@@ -8,8 +8,8 @@ MaxHpAddr:01021A4C
 MaxSpAddr:01021A54
 
 //Opt Addresses
-StatusAddr:0101D96C
-Opt2Addr:0101D970
+StatusAddr:0101D970
+Opt2Addr:0101D96C
 Opt3Addr:0101D974
 StatusSearch:01021EC0
 
