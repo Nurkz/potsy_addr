@@ -2,24 +2,24 @@
 Exe:chicken.exe
 
 //Basic Addresses
-HpAddr:01021A48
-SpAddr:01021A50
-MaxHpAddr:01021A4C
-MaxSpAddr:01021A54
+HpAddr:00E73D3C
+SpAddr:00E73D44
+MaxHpAddr:00E73D40
+MaxSpAddr:00E73D48
 
 //Opt Addresses
-StatusAddr:0101D970
-Opt2Addr:0101D96C
-Opt3Addr:0101D974
-StatusSearch:01021EC0
+StatusAddr:00E6FD1C
+Opt2Addr:00E6FD18
+Opt3Addr:00E6FD20
+StatusSearch:00E741B0
 
 // Misc
-CursorPosX:00DA747C
-CursorPosY:00DA7480
-DestX:010097B4
-DestY:010097B8
-Name:01024208
-Weight:0101E130
-MaxWeight:0101E12C
-OpenSock:00FE8064
-City:0101D1EC
+CursorPosX:00C0568C
+CursorPosY:00C05690
+DestX:00E5D058
+DestY:00E5D05C
+Name:00E749D8
+Weight:00E704C8
+MaxWeight:00E704BC
+OpenSock:00E3A724
+City:00E6F808
