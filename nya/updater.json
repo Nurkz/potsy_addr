@@ -1,0 +1,13 @@
+{
+    "version":"2021.2.15.1",
+    "url":"http://54.36.180.122/easypotsy/release/2021-2-15-1.zip",
+    "mandatory":{
+        "value":true,
+        "minVersion": "2021.2.15.1",
+        "mode":2
+    },
+    "checksum":{
+        "value":"D6F8B2F820E6667406AD6F8FB895563635128ABF",
+        "hashingAlgorithm":"SHA1"
+    }
+}
