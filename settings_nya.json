@@ -1,0 +1,35 @@
+{
+	"client": {
+		"exe": "client.exe",
+		"hash": "4B55403AFAA7035212BC6B2E2F87135C72273C9A"
+	},
+	"addresses":{
+		"hp":{
+			"current":"00E73D3C",
+			"max":"00E73D40"
+		},
+		"sp":{
+			"current":"00E73D44",
+			"max":"00E73D48"
+		},
+		"status":"00E6FD1C",
+		"opt2":"00E6FD18",
+		"opt3":"00E6FD20",
+		"state":"00E741B0",
+		"cursor":{
+			"x":"00C0568C",
+			"y":"00C05690"
+		},
+		"dest":{
+			"x":"00E5D058",
+			"y":"00E5D05C"
+		},
+		"name":"00E749D8",
+		"weight":{
+			"current":"00E704C8",
+			"max":"00E704BC"
+		},
+		"opensock":"00E3A724",
+		"city":"00E6F808"
+	}
+}
