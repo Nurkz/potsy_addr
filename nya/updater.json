@@ -1,13 +1,13 @@
 {
-    "version":"2021.2.16.1",
-    "url":"http://files.playdf.org/nya/potsy/EasyPotsy_v2021.2.16.1.zip",
+    "version":"2021.2.17.1",
+    "url":"http://files.playdf.org/nya/potsy/EasyPotsy_v2021.2.17.1.zip",
     "mandatory":{
         "value":true,
-        "minVersion": "2021.2.16.1",
+        "minVersion": "2021.2.17.1",
         "mode":2
     },
     "checksum":{
-        "value":"EB8CE52AB24FD9FA9994A899B64B1D5FD385A53C",
+        "value":"DF7278C8C76B997AC6DCD8AEEC0C6C41011416DA",
         "hashingAlgorithm":"SHA1"
     }
 }
