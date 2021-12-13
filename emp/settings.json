@@ -1,0 +1,35 @@
+{
+	"client": {
+		"exe": "EmperiumRO.exe",
+		"hash": "21FABFAB0401666DB6E02361D33FFE22706943B1"
+	},
+	"addresses":{
+		"hp":{
+			"current":"010DCE10",
+			"max":"010DCE14"
+		},
+		"sp":{
+			"current":"010DCE18",
+			"max":"010DCE1C"
+		},
+		"status":"010D8CF0",
+		"opt2":"010D8CEC",
+		"opt3":"010D8CF4",
+		"state":"010DD284",
+		"cursor":{
+			"x":"00E623B4",
+			"y":"00E623B8"
+		},
+		"dest":{
+			"x":"010C5CA4",
+			"y":"010C5CA8"
+		},
+		"name":"010DF5D8",
+		"weight":{
+			"current":"010D94B0",
+			"max":"010D94AC"
+		},
+		"opensock":"00000000",
+		"city":"010D856C"
+	}
+}
