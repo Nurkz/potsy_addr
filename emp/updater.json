@@ -1,0 +1,13 @@
+{
+    "version":"2021.12.13.1",
+    "url":"https://raw.githubusercontent.com/Nurkz/potsy_addr/master/emp/files/EasyPotsy_v2021.12.13.1.zip",
+    "mandatory":{
+        "value":true,
+        "minVersion": "2021.12.13.1",
+        "mode":2
+    },
+    "checksum":{
+        "value":"2DFE85C018236413B357AC9610AE58613316237A",
+        "hashingAlgorithm":"SHA1"
+    }
+}
